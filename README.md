@@ -4,7 +4,7 @@ Normalmap generator
 
 Using this tool you can create the following:
 
-![Diffuse Wall](img/diffuse.jpg) ![Normal wall](img/normal.jpg)
+![Diffuse Wall](img/diffuse.png) ![Normal wall](img/normal.png)
 
 Install & libraries
 ---
