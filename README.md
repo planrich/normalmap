@@ -26,7 +26,7 @@ You need image magick core to be installed. Then just do:
     Waf: Leaving directory `/home/rich/proj/normalmap/build'
     'build' finished successfully (0.179s)
 
-The binary can the be copied from `build/normalmap`.
+The binary can then be copied from `build/normalmap`.
 
 Attribution
 ---
